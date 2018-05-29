@@ -1,0 +1,8 @@
+PROJECT_NAME = "Implementação dos iteradores"
+PROJECT_BRIEF = "Programa de Implementação da função com iteradores"
+OUTPUT_DIRECTORY = 
+OUTPUT_LANGUAGE = Brazilian
+RECURSIVE = YES
+GENERATE_HTML = YES
+HTML_OUTPUT = ./doc
+GENERATE_LATEX = NO
